@@ -1,0 +1,5 @@
+Guardian
+========
+
+A system user for running backup cron jobs, etc. User has its own
+`/home` but no login shell (`sudo su - guardian -s /bin/bash`).

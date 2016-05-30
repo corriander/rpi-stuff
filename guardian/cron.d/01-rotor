@@ -1,0 +1,3 @@
+#
+# Rotate/remove backups
+55 1 * * * /home/guardian/bin/rotor.sh
